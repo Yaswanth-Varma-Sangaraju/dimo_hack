@@ -1,0 +1,108 @@
+.home-background-icon5,
+.nft5-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 982px;
+  object-fit: cover;
+}
+.nft5-1-icon {
+  top: 71px;
+  left: 141px;
+  width: 656.8px;
+  height: 691px;
+}
+.the-samurai {
+  position: absolute;
+  top: 794px;
+  left: 132px;
+  display: inline-block;
+  width: 675px;
+  height: 114px;
+}
+.name9 {
+  font-weight: 800;
+}
+.blank-line,
+.name9,
+.p {
+  margin: 0;
+}
+.p {
+  font-weight: 600;
+}
+.name-sashank-container {
+  position: absolute;
+  top: 147px;
+  left: 927px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 525px;
+  height: 538px;
+}
+.buy-child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.buy-child,
+.buy3,
+.buy4 {
+  position: absolute;
+}
+.buy4 {
+  height: 54.35%;
+  width: 36.06%;
+  top: 23.19%;
+  left: 31.82%;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+}
+.buy3 {
+  top: 770px;
+  left: 927px;
+  width: 330px;
+  height: 138px;
+  text-align: center;
+  font-size: var(--font-size-41xl);
+  color: var(--color-white);
+  font-family: var(--font-kavoon);
+}
+.nft5-child {
+  position: absolute;
+  top: 252px;
+  left: 243px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.left-arrow-icon {
+  position: absolute;
+  top: 8px;
+  left: 18px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.nft5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 90px;
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+

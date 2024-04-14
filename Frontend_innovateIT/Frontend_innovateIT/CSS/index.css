@@ -1,0 +1,170 @@
+.home-background-icon,
+.main-board-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 982px;
+  object-fit: cover;
+}
+.main-board-icon {
+  width: 741px;
+  height: 551px;
+}
+.i-am-looking {
+  margin: 0;
+}
+.text {
+  position: absolute;
+  top: 290.5px;
+  left: 85px;
+  display: inline-block;
+  width: 572px;
+  height: 260.5px;
+}
+.left-board-icon,
+.main-board {
+  position: absolute;
+  top: -169px;
+  left: 385px;
+  width: 741px;
+  height: 551px;
+}
+.left-board-icon {
+  top: 0;
+  left: 0;
+  width: 628px;
+  height: 872px;
+  object-fit: cover;
+}
+.text1 {
+  position: absolute;
+  top: 284px;
+  left: 211px;
+  display: inline-block;
+  width: 246px;
+  height: 113px;
+}
+.left-board,
+.right-board-icon {
+  position: absolute;
+  left: 0;
+  height: 872px;
+}
+.left-board {
+  top: 252px;
+  width: 628px;
+  cursor: pointer;
+  color: var(--color-white);
+}
+.right-board-icon {
+  top: 0;
+  width: 629px;
+  object-fit: cover;
+}
+.text2 {
+  position: absolute;
+  top: 283px;
+  left: 159px;
+  display: inline-block;
+  width: 262px;
+  height: 80px;
+}
+.right-board {
+  position: absolute;
+  top: 252px;
+  left: 883px;
+  width: 629px;
+  height: 872px;
+  color: #fffcfc;
+}
+.nft-logo-child {
+  position: absolute;
+  top: 129px;
+  left: 155.5px;
+  width: 135.4px;
+  height: 92.6px;
+}
+.nft-logo,
+.nft-logo-icon,
+.nft3-icon {
+  position: absolute;
+  width: 447.5px;
+  height: 351.8px;
+}
+.nft-logo-icon {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.nft-logo,
+.nft3-icon {
+  top: 382px;
+  left: 532px;
+}
+.nft3-icon {
+  top: 699px;
+  left: 457px;
+  width: 266px;
+  height: 283px;
+  object-fit: cover;
+}
+.logo-icon,
+.nft1-icon,
+.nft2-icon,
+.nft4-icon {
+  position: absolute;
+  top: 681px;
+  left: 756px;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+.logo-icon,
+.nft2-icon,
+.nft4-icon {
+  top: 708px;
+  left: 197px;
+  width: 198px;
+  height: 274px;
+}
+.logo-icon,
+.nft4-icon {
+  top: 656px;
+  left: 1029px;
+  width: 337px;
+  height: 370px;
+}
+.logo-icon {
+  top: 3px;
+  left: 0;
+  width: 250px;
+  height: 184px;
+}
+.logo,
+.logo-child {
+  position: absolute;
+  width: 253px;
+  height: 187px;
+}
+.logo-child {
+  top: 0;
+  left: 0;
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+}
+.logo {
+  top: 65px;
+  left: 85px;
+}
+.home-screen {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 982px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-61xl);
+  color: rgba(0, 255, 255, 0.95);
+  font-family: var(--font-kavoon);
+}

@@ -1,0 +1,192 @@
+.home-background-icon4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1512px;
+    height: 982px;
+    object-fit: cover;
+  }
+  .lease-page-child,
+  .lease-page-child1,
+  .lease-page-child2,
+  .lease-page-inner,
+  .lease-page-item {
+    position: absolute;
+    top: 450px;
+    left: 104px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-gainsboro);
+    width: 254px;
+    height: 319px;
+  }
+  .lease-page-child1,
+  .lease-page-child2,
+  .lease-page-inner,
+  .lease-page-item {
+    left: 450px;
+  }
+  .lease-page-child1,
+  .lease-page-child2,
+  .lease-page-inner {
+    top: 93px;
+  }
+  .lease-page-child1,
+  .lease-page-child2 {
+    top: 87px;
+    left: 802px;
+  }
+  .lease-page-child2 {
+    left: 1148px;
+  }
+  .nft10-icon,
+  .nft6-icon,
+  .nft7-icon,
+  .nft8-icon,
+  .nft9-icon {
+    position: absolute;
+    top: 108px;
+    left: 811px;
+    width: 236px;
+    height: 236px;
+    object-fit: cover;
+  }
+  .nft10-icon,
+  .nft6-icon,
+  .nft8-icon,
+  .nft9-icon {
+    left: 459px;
+  }
+  .nft10-icon,
+  .nft8-icon,
+  .nft9-icon {
+    left: 1163px;
+    width: 230px;
+  }
+  .nft10-icon,
+  .nft9-icon {
+    top: 465px;
+    left: 152px;
+    width: 157.3px;
+  }
+  .nft9-icon {
+    left: 498px;
+  }
+  .lease-page-child3 {
+    position: absolute;
+    top: 93px;
+    left: 104px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-gainsboro);
+    width: 254px;
+    height: 319px;
+  }
+  .nft5-icon {
+    position: absolute;
+    top: 108px;
+    left: 119px;
+    width: 224.3px;
+    height: 236px;
+    object-fit: cover;
+    cursor: pointer;
+  }
+  .year,
+  .year1,
+  .year2,
+  .year3,
+  .year4,
+  .year5 {
+    position: absolute;
+    top: 350px;
+    left: 124px;
+    display: inline-block;
+    width: 169px;
+    height: 23px;
+  }
+  .year1,
+  .year2,
+  .year3,
+  .year4,
+  .year5 {
+    left: 464px;
+  }
+  .year2,
+  .year3,
+  .year4,
+  .year5 {
+    left: 816px;
+  }
+  .year3,
+  .year4,
+  .year5 {
+    top: 347px;
+    left: 1168px;
+  }
+  .year4,
+  .year5 {
+    top: 707px;
+    left: 157px;
+  }
+  .year5 {
+    left: 503px;
+  }
+  .year6,
+  .years,
+  .years1,
+  .years2,
+  .years3,
+  .years4 {
+    position: absolute;
+    top: 378px;
+    left: 124px;
+    display: inline-block;
+    width: 98px;
+    height: 22px;
+  }
+  .year6,
+  .years1,
+  .years2,
+  .years3,
+  .years4 {
+    left: 464px;
+  }
+  .year6,
+  .years2,
+  .years3,
+  .years4 {
+    left: 816px;
+  }
+  .year6,
+  .years3,
+  .years4 {
+    top: 375px;
+    left: 1168px;
+  }
+  .years3,
+  .years4 {
+    top: 735px;
+    left: 157px;
+  }
+  .years4 {
+    left: 503px;
+  }
+  .back-icon1 {
+    position: absolute;
+    top: 8px;
+    left: 20px;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    cursor: pointer;
+  }
+  .lease-page {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    height: 982px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-black);
+    font-family: var(--font-montserrat);
+  }
+  

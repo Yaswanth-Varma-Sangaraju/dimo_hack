@@ -1,0 +1,22 @@
+.home-background-icon3,
+.httpslottiefilescomanimat-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 982px;
+  object-fit: cover;
+}
+.httpslottiefilescomanimat-icon {
+  top: 241px;
+  left: 506px;
+  width: 500px;
+  height: 500px;
+}
+.loading-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 982px;
+  overflow: hidden;
+}

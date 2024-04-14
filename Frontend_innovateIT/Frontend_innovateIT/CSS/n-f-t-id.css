@@ -1,0 +1,133 @@
+.property-1default-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-31xl);
+    background-color: var(--color-white);
+    border: 5px solid var(--color-darkgray);
+    box-sizing: border-box;
+  }
+  .nft-id1 {
+    position: absolute;
+    top: 24.59%;
+    left: 7.34%;
+    text-shadow: 1px 0 0#898989, 0 1px 0#898989, -1px 0 0#898989, 0-1px 0#898989;
+  }
+  .property-1default {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 668px;
+    height: 122px;
+    font-size: var(--font-size-31xl);
+    color: var(--color-gray-100);
+  }
+  .property-1variant2-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-31xl);
+    background-color: var(--color-white);
+    border: 5px solid var(--color-black);
+    box-sizing: border-box;
+  }
+  .div,
+  .nft-id2 {
+    position: absolute;
+    left: 7.93%;
+  }
+  .nft-id2 {
+    top: 12.3%;
+    text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  }
+  .div {
+    height: 39.34%;
+    width: 14.52%;
+    top: 42.62%;
+    font-size: var(--font-size-16xl);
+    display: inline-block;
+  }
+  .property-1variant2,
+  .property-1variant3 {
+    position: absolute;
+    top: 162px;
+    left: 20px;
+    width: 668px;
+    height: 122px;
+  }
+  .property-1variant3 {
+    top: 304px;
+  }
+  .div1,
+  .nft-id4,
+  .xxxxxxxxx {
+    position: absolute;
+    left: 7.93%;
+  }
+  .nft-id4 {
+    top: 12.3%;
+    font-size: var(--font-size-6xl);
+    text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  }
+  .div1,
+  .xxxxxxxxx {
+    height: 30.33%;
+    width: 86.98%;
+    top: 44.26%;
+    display: inline-block;
+  }
+  .div1 {
+    height: 39.34%;
+    width: 14.52%;
+    top: 41.8%;
+    left: 24.7%;
+  }
+  .property-1variant4,
+  .xxxxxxxxx1 {
+    position: absolute;
+    top: 446px;
+    left: 20px;
+    width: 668px;
+    height: 122px;
+    font-size: var(--font-size-16xl);
+  }
+  .xxxxxxxxx1 {
+    height: 30.33%;
+    width: 86.98%;
+    top: 44.26%;
+    left: 7.93%;
+    display: inline-block;
+  }
+  .property-1variant5,
+  .property-1variant6 {
+    position: absolute;
+    top: 588px;
+    left: 20px;
+    width: 668px;
+    height: 122px;
+  }
+  .property-1variant6 {
+    top: 730px;
+  }
+  .nft-id {
+    width: 100%;
+    position: relative;
+    border-radius: var(--br-8xs);
+    border: 1px dashed var(--color-blueviolet);
+    box-sizing: border-box;
+    height: 872px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-6xl);
+    color: var(--color-black);
+    font-family: var(--font-montserrat);
+  }
+  

@@ -1,0 +1,47 @@
+.property-1default-child2 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-xl);
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .buy1 {
+    position: absolute;
+    height: 54.35%;
+    width: 36.06%;
+    top: 23.19%;
+    left: 31.82%;
+    display: inline-block;
+  }
+  .property-1default6,
+  .property-1variant26 {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 330px;
+    height: 138px;
+  }
+  .property-1variant26 {
+    top: 187px;
+    cursor: pointer;
+  }
+  .buy {
+    width: 100%;
+    position: relative;
+    border-radius: var(--br-8xs);
+    border: 1px dashed var(--color-blueviolet);
+    box-sizing: border-box;
+    height: 356px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-41xl);
+    color: var(--color-white);
+    font-family: var(--font-kavoon);
+  }
+  

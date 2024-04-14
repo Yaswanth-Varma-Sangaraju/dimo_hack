@@ -1,0 +1,46 @@
+.rectangle-icon,
+.submit1 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.rectangle-icon {
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.submit1 {
+  height: 54.76%;
+  top: 22.62%;
+  display: inline-block;
+}
+.property-1default5,
+.property-1variant25 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 250px;
+  height: 84px;
+}
+.property-1variant25 {
+  top: 124px;
+  cursor: pointer;
+}
+.submit {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  height: 228px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-kavoon);
+}

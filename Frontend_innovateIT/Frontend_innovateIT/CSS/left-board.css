@@ -1,0 +1,41 @@
+.image-icon1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 628px;
+    height: 872px;
+    object-fit: cover;
+  }
+  .sell,
+  .text5 {
+    position: absolute;
+    width: 246px;
+    height: 113px;
+  }
+  .sell {
+    top: 0;
+    left: 0;
+    display: inline-block;
+  }
+  .text5 {
+    top: 284px;
+    left: 211px;
+    cursor: pointer;
+  }
+  .left-board2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 628px;
+    height: 872px;
+  }
+  .left-board1 {
+    width: 100%;
+    position: relative;
+    height: 872px;
+    text-align: center;
+    font-size: var(--font-size-61xl);
+    color: var(--color-black);
+    font-family: var(--font-kavoon);
+  }
+  

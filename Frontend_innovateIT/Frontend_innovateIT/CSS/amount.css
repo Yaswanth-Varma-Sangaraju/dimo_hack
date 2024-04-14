@@ -1,0 +1,131 @@
+.rectangle-div {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-31xl);
+    background-color: var(--color-white);
+    border: 5px solid var(--color-darkgray);
+    box-sizing: border-box;
+  }
+  .duration-in-years {
+    position: absolute;
+    top: 24.59%;
+    left: 7.04%;
+    text-shadow: 1px 0 0#898989, 0 1px 0#898989, -1px 0 0#898989, 0-1px 0#898989;
+  }
+  .property-1default3 {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 668px;
+    height: 122px;
+    font-size: var(--font-size-31xl);
+    color: var(--color-gray-100);
+  }
+  .property-1variant2-child1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-31xl);
+    background-color: var(--color-white);
+    border: 5px solid var(--color-black);
+    box-sizing: border-box;
+  }
+  .div9,
+  .duration-in-years1 {
+    position: absolute;
+    left: 7.93%;
+  }
+  .duration-in-years1 {
+    top: 12.3%;
+    text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  }
+  .div9 {
+    height: 39.34%;
+    width: 14.52%;
+    top: 42.62%;
+    font-size: var(--font-size-16xl);
+    display: inline-block;
+  }
+  .property-1variant23,
+  .property-1variant33 {
+    position: absolute;
+    top: 162px;
+    left: 20px;
+    width: 668px;
+    height: 122px;
+  }
+  .property-1variant33 {
+    top: 304px;
+  }
+  .duration-in-years3 {
+    position: absolute;
+    top: 12.3%;
+    left: 7.93%;
+    font-size: var(--font-size-6xl);
+    text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+  }
+  .div10,
+  .div11 {
+    position: absolute;
+    height: 30.33%;
+    width: 86.98%;
+    top: 44.26%;
+    left: 7.93%;
+    display: inline-block;
+  }
+  .div11 {
+    height: 39.34%;
+    width: 14.52%;
+    top: 41.8%;
+    left: 9.43%;
+  }
+  .div12,
+  .property-1variant43 {
+    position: absolute;
+    top: 446px;
+    left: 20px;
+    width: 668px;
+    height: 122px;
+    font-size: var(--font-size-16xl);
+  }
+  .div12 {
+    height: 30.33%;
+    width: 86.98%;
+    top: 44.26%;
+    left: 7.93%;
+    display: inline-block;
+  }
+  .property-1variant53,
+  .property-1variant63 {
+    position: absolute;
+    top: 588px;
+    left: 20px;
+    width: 668px;
+    height: 122px;
+  }
+  .property-1variant63 {
+    top: 730px;
+  }
+  .duration {
+    width: 100%;
+    position: relative;
+    border-radius: var(--br-8xs);
+    border: 1px dashed var(--color-blueviolet);
+    box-sizing: border-box;
+    height: 872px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-6xl);
+    color: var(--color-black);
+    font-family: var(--font-montserrat);
+  }
+  

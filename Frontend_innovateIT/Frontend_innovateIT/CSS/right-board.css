@@ -1,0 +1,42 @@
+.image-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 629px;
+    height: 872px;
+    object-fit: cover;
+  }
+  .text4 {
+    display: inline-block;
+  }
+  .text-wrapper,
+  .text3,
+  .text4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 262px;
+    height: 80px;
+  }
+  .text-wrapper {
+    top: 283px;
+    left: 159px;
+    cursor: pointer;
+  }
+  .right-board2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 629px;
+    height: 872px;
+  }
+  .right-board1 {
+    width: 100%;
+    position: relative;
+    height: 872px;
+    text-align: center;
+    font-size: var(--font-size-61xl);
+    color: #060606;
+    font-family: var(--font-kavoon);
+  }
+  

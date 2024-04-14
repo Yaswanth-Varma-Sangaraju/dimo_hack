@@ -1,0 +1,36 @@
+.home-background-icon2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1512px;
+    height: 982px;
+    object-fit: cover;
+  }
+  .submitted-successfully {
+    position: absolute;
+    top: 741px;
+    left: 307px;
+    display: inline-block;
+    width: 897px;
+    height: 97px;
+  }
+  .tick-icon {
+    position: absolute;
+    top: 41px;
+    left: 406px;
+    width: 700px;
+    height: 700px;
+    object-fit: cover;
+  }
+  .submitted-page {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    height: 982px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-61xl);
+    color: #58bf4a;
+    font-family: var(--font-inter);
+  }
+  
